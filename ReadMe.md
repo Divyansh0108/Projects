@@ -12,3 +12,4 @@ Easy having single-digit guesses.
 medium having double-digit guesses.
 hard having triple-digit guesses.
 Added some code formatting for user readability. 
+A little twist, this version allows the system to give you the number to guess, thereby increasing the fun.
